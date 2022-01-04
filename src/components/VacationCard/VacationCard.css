@@ -1,0 +1,10 @@
+.not-followed-btn {
+    background-color: white;
+    border-radius: 20%;
+}
+
+.followed-btn {
+    background-color: #64ac8a;
+    border-radius: 20%;
+    transition: background-color 1s;
+}

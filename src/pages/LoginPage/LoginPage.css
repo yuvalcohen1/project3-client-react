@@ -1,0 +1,12 @@
+.login-container {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: darkgrey;
+  border-radius: 20px;
+}
+
+.login-title {
+  font-size: 3vw;
+}

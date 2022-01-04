@@ -1,0 +1,12 @@
+.register-container {
+  height: 65vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: darkgrey;
+  border-radius: 20px;
+}
+
+.register-title {
+  font-size: 3vw;
+}
